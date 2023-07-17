@@ -1,0 +1,45 @@
+.hd{
+    text-align: center;
+    background-color: gray;
+    padding: 0.8rem;
+}
+.git{
+    color: black;
+}
+.git:hover{
+    color: black;
+}
+.header{
+    font-size: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.imagec{
+    margin-top: 5rem;
+    text-align: center;
+}
+.imagec img{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.ogimage{
+    min-width: 50rem;
+    min-height: 25rem;
+    max-height: 50rem;
+    max-width: 50rem;
+}
+.predimage{
+    min-width: 50rem;
+    min-height: 25rem;
+    max-height: 50rem;
+    max-width: 50rem;
+
+}
+.dwd{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.dwd button{
+    padding-left: 2.625rem;
+    padding-right: 2.625rem;
+}

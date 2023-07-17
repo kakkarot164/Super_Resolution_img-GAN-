@@ -1,0 +1,73 @@
+body{
+    margin-top: 0;
+    /* background: linear-gradient(to bottom, #4b6cb7, #182848); */
+}
+.header{
+    font-size: 4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.git{
+    color: black;
+}
+.git:hover{
+    color: black;
+}
+.hd{
+    text-align: center;
+    background-color: gray;
+    padding: 0.8rem;
+}
+.fm{
+    padding: 2rem;
+    margin-top: 2rem;
+    padding-left: 26.5rem;
+}
+.fm label{
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 1.5rem;
+}
+.fm input{
+    width: 60%;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 1.5rem;
+}
+.fm button{
+    margin-left: 16.688rem;
+    padding-left: 2.625rem;
+    padding-right: 2.625rem;
+}
+.dwd button{
+    margin-left: 41.81rem;
+    margin-bottom: 2rem;
+}
+.how-to{
+    margin-top: 2rem;
+    text-align: center;
+}
+.how-to p{
+    margin-top: 1.5rem;
+}
+.note{
+    text-align: center;
+}
+.note p{
+    font-style: italic;
+}
+.flashes{
+    font-style: italic;
+    color: red;
+}
+.flsh{
+    background-color: rgb(234 210 210);
+    max-width: 48%;
+    margin-left: auto;
+    margin-right: auto;    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+
+}
